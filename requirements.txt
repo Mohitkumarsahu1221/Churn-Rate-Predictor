@@ -1,0 +1,24 @@
+# Core Data Science & ML Libraries
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn>=1.0.0
+scipy>=1.0.0
+
+# Visualization Libraries
+matplotlib==3.10.8
+seaborn>=0.13.0
+plotly==6.7.0
+
+# Jupyter & Interactive Development
+jupyter>=1.0.0
+jupyter-client==8.8.0
+jupyter-core==5.9.1
+ipython==9.12.0
+ipykernel==7.2.0
+
+# Model Persistence
+joblib==1.5.3
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.0
